@@ -9,6 +9,18 @@ A user can have many playlist and a playlist can have different songs. A songs c
 
 For a specific user,
 
+<ul>
 <li>Display their playlists, number of songs, and total runtime of the playlist</li>
-
 <li> Display their Playlists, songs in playlist, artistes, album, if the song is in their library, song duration, date the song was added to the playlist</li>
+</ul>
+
+# Resources
+
+<ul>
+<li>Database Model Design</li>
+<li>Create Queries</li>
+<li>.Bak File</li>
+<li>Insert Queries</li>
+<li>SQL Queries</li>
+</ul>
+  
